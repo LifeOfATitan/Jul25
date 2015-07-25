@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">iFindHer</string>
+    <string name="title_activity_login">LoginActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="LoginButtonid">Login</string>
+    <string name="HintPassword">Password</string>
+    <string name="HintUserName">Username</string>
+    <string name="SignupButtonId">Sign Up</string>
+    <string name="HintEmail">Email</string>
+    <string name="title_activity_signup">Sign Up</string>
+    <string name="title_activity_home_page">HomePageActivity</string>
+</resources>
